@@ -1,4 +1,4 @@
-# Curated book reading list for computer science
+# Curated book reading list in computer science
 Computer Science Journey (2002-Present):
 - Education (BSc Computer Science -> MSc Computer Vision & Robotics -> PhD in Computer Vision)
 - Industry (Software Engineer -> Computer Vision Researcher)
