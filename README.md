@@ -1,8 +1,20 @@
-# Curated book reading list in computer science
-Computer Science Journey (2002-Present):
+# Curated educational list for computer science
+> * **[Reference Books](https://github.com/mawady/awesome-cs#About-Me)**
+> * **[Online Courses](https://github.com/mawady/awesome-cs#Algorithms)**
+> * **[Online Courses](https://github.com/mawady/awesome-cs#Databases)**
+> * **[Online Courses](https://github.com/mawady/awesome-cs#C/C++)**
+> * **[Online Courses](https://github.com/mawady/awesome-cs#Java)**
+> * **[Online Courses](https://github.com/mawady/awesome-cs#Python)**
+> * **[Online Courses](https://github.com/mawady/awesome-cs#Software-Engineering)**
+> * **[Online Courses](https://github.com/mawady/awesome-cs#Computer-Vision)**
+> * **[Online Courses](https://github.com/mawady/awesome-cs#Misc)**
+
+---
+
+## About Me
 - Education (BSc Computer Science -> MSc Computer Vision & Robotics -> PhD in Computer Vision)
 - Industry (Software Engineer -> Computer Vision Researcher)
-- Academia (Lab Assistant -> UG/PG Tutor -> Lecturer)
+- Academia (Lab Assistant -> UG/PG Tutor -> Lecturer -> Teaching)
 
 ---
 
@@ -21,7 +33,7 @@ Computer Science Journey (2002-Present):
 
 ---
 
-## C / C++
+## C/C++
 
 ---
 
@@ -33,7 +45,7 @@ Computer Science Journey (2002-Present):
 
 ---
 
-## Software Engineering / Development
+## Software Engineering
 
 ---
 
