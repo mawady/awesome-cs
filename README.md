@@ -82,6 +82,11 @@
 - [HAL - France](https://hal.archives-ouvertes.fr)
 - [CORE - UK](https://core.ac.uk)
 
+## >> Preprint Repositories
+- [arXiv](https://arxiv.org)
+- [Zenodo](https://zenodo.org)
+- [ScienceOpen](https://www.scienceopen.com)
+
 ### >> Books
 - Aditya Bhargava. “Grokking Algorithms: An illustrated guide for programmers and other curious people, 1st Edition.” (2016) [[goodreads](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)]
 - John Z. Sonmez. “Soft Skills: The Software Developer's Life Manual, 2nd edition.” (2021) [[goodreads](https://www.goodreads.com/book/show/59727347-soft-skills)]
