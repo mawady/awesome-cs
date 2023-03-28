@@ -1,13 +1,13 @@
 # Curated educational list for computer science
 > * **[Reference Books](https://github.com/mawady/awesome-cs#About-Me)**
-> * **[Online Courses](https://github.com/mawady/awesome-cs#Algorithms)**
-> * **[Online Courses](https://github.com/mawady/awesome-cs#Databases)**
-> * **[Online Courses](https://github.com/mawady/awesome-cs#C/C++)**
-> * **[Online Courses](https://github.com/mawady/awesome-cs#Java)**
-> * **[Online Courses](https://github.com/mawady/awesome-cs#Python)**
-> * **[Online Courses](https://github.com/mawady/awesome-cs#Software-Engineering)**
-> * **[Online Courses](https://github.com/mawady/awesome-cs#Computer-Vision)**
-> * **[Online Courses](https://github.com/mawady/awesome-cs#Misc)**
+> * **[Algorithms](https://github.com/mawady/awesome-cs#Algorithms)**
+> * **[Databases](https://github.com/mawady/awesome-cs#Databases)**
+> * **[C/C++](https://github.com/mawady/awesome-cs#C/C++)**
+> * **[Java](https://github.com/mawady/awesome-cs#Java)**
+> * **[Python](https://github.com/mawady/awesome-cs#Python)**
+> * **[Software Engineering](https://github.com/mawady/awesome-cs#Software-Engineering)**
+> * **[Computer Vision](https://github.com/mawady/awesome-cs#Computer-Vision)**
+> * **[Misc](https://github.com/mawady/awesome-cs#Misc)**
 
 ---
 
