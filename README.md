@@ -20,7 +20,7 @@
 
 ## Algorithms
 
-### Books
+### > Books
 - Sedgewick, Robert, and Kevin Wayne. "Algorithms". [[goodreads](https://www.goodreads.com/book/show/10803540-algorithms)]
 - Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. "Introduction to algorithms". [[goodreads](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)]
 - Skiena, Steven S., and Miguel A. Revilla. "Programming challenges: The programming contest training manual".  [[goodreads](https://www.goodreads.com/book/show/1041695.Programming_Challenges)]
@@ -30,7 +30,7 @@
 
 ## Databases
 
-### Books
+### > Books
 - Elmasri, Ramez, and Shamkant B. Navathe. "Fundamentals of Database Systems." [[goodreads](https://www.goodreads.com/book/show/161300.Fundamentals_of_Database_Systems)]
 - Connolly, Thomas M., and Carolyn E. Begg. "Database systems: a practical approach to design, implementation, and management". [[goodreads](https://www.goodreads.com/book/show/617120.Database_Systems)]
 
@@ -56,7 +56,7 @@
 
 --
 ## Misc
-### Books
+### > Books
 - Aditya Bhargava. “Grokking Algorithms: An illustrated guide for programmers and other curious people, 1st Edition.” (2016) [[goodreads](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)]
 - John Z. Sonmez. “Soft Skills: The Software Developer's Life Manual, 2nd edition.” (2021) [[goodreads](https://www.goodreads.com/book/show/59727347-soft-skills)]
 - Tom DeMarco and Timothy R. Lister. “Peopleware: Productive Projects and Teams, 3rd Edition.” (2016) [[goodreads](https://www.goodreads.com/book/show/67825.Peopleware)]
