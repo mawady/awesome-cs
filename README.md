@@ -42,6 +42,12 @@
 
 ## Java
 
+### >> Compilers / Frameworks
+- [Oracle JDK](https://www.oracle.com/java/technologies/) - `Commerical`
+- [Adoptium OpenJDK, supported by Microsoft](https://adoptium.net/) [[GitHub](https://github.com/adoptium/jdk)] - `Open Source`
+- [Azul Zulu OpenJDK](https://www.azul.com/downloads/?package=jdk#zulu) [[Docker](https://github.com/zulu-openjdk/zulu-openjdk)] - `Free`
+- [MS OpenJDK](https://www.microsoft.com/openjdk) [[GitHub](https://github.com/microsoft/openjdk)]  - `Open Source`
+
 ---
 
 ## Python
