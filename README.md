@@ -16,7 +16,8 @@
 - Education (BSc Computer Science -> MSc Computer Vision & Robotics -> PhD in Computer Vision)
 - Industry (Software Engineer -> Computer Vision Researcher)
 - Academia (Lab Assistant -> UG/PG Tutor -> Lecturer -> Teaching Fellow)
-[Back to the top](#contents)
+
+##### [Back to the top](#contents)
 ---
 
 ## Algorithms
