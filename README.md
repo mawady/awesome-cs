@@ -86,7 +86,7 @@
 ### >> University Ranking
 - [CS Ranking](https://csrankings.org/)
 
-### >> Academic Search Engine
+### >> Academic Search Engines
 - [Google Scholar](https://scholar.google.com)
 - [dblp](https://dblp.org)
 - [Semantic Scholar](https://semanticscholar.org)
@@ -112,7 +112,7 @@
 - Martin Fowler. “Refactoring: Improving the Design of Existing Code, 2nd edition.” (2019) [[goodreads](https://www.goodreads.com/book/show/44936.Refactoring)]
 - Eric Freeman, Kathy Sierra, Bert Bates, Elisabeth Robson. “Head First Design Patterns, 2nd edition.” (2021) [[goodreads](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)]
 
-### >> Other awesome list
+### >> Other awesome lists
 - https://github.com/JoseDeFreitas/awesome-youtubers
 - https://github.com/prakhar1989/awesome-courses
 - https://github.com/ossu/computer-science
