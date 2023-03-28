@@ -99,3 +99,11 @@
 - Frederick P. Brooks Jr.. “The Mythical Man-Month: Essays on Software Engineering, 2nd edition.” (1995) [[goodreads](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)]
 - Martin Fowler. “Refactoring: Improving the Design of Existing Code, 2nd edition.” (2019) [[goodreads](https://www.goodreads.com/book/show/44936.Refactoring)]
 - Eric Freeman, Kathy Sierra, Bert Bates, Elisabeth Robson. “Head First Design Patterns, 2nd edition.” (2021) [[goodreads](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)]
+
+### >> Other awesome list
+- https://github.com/JoseDeFreitas/awesome-youtubers
+- https://github.com/prakhar1989/awesome-courses
+- https://github.com/ossu/computer-science
+- https://github.com/s4kibs4mi/awesome-free-courses
+- https://github.com/apeman/awesome_computer_science
+- https://github.com/AB1908/CS-Books
