@@ -1,4 +1,5 @@
 # Curated educational list for computer science
+## Contents
 > * **[About Me](https://github.com/mawady/awesome-cs#About-Me)**
 > * **[Algorithms](https://github.com/mawady/awesome-cs#Algorithms)**
 > * **[Databases](https://github.com/mawady/awesome-cs#Databases)**
@@ -15,7 +16,7 @@
 - Education (BSc Computer Science -> MSc Computer Vision & Robotics -> PhD in Computer Vision)
 - Industry (Software Engineer -> Computer Vision Researcher)
 - Academia (Lab Assistant -> UG/PG Tutor -> Lecturer -> Teaching Fellow)
-
+[Back to the top](#contents)
 ---
 
 ## Algorithms
@@ -26,6 +27,7 @@
 - Skiena, Steven S., and Miguel A. Revilla. "Programming challenges: The programming contest training manual".  [[goodreads](https://www.goodreads.com/book/show/1041695.Programming_Challenges)]
 - Skiena, Steven S. "The Algorithm Design Manual (Texts in Computer Science)". [[goodreads](https://www.goodreads.com/book/show/55357750-the-algorithm-design-manual)]
 
+[Back to the top](#contents)
 ---
 
 ## Databases
