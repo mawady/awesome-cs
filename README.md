@@ -28,7 +28,7 @@
 - Skiena, Steven S., and Miguel A. Revilla. "Programming challenges: The programming contest training manual".  [[goodreads](https://www.goodreads.com/book/show/1041695.Programming_Challenges)]
 - Skiena, Steven S. "The Algorithm Design Manual (Texts in Computer Science)". [[goodreads](https://www.goodreads.com/book/show/55357750-the-algorithm-design-manual)]
 
-[Back to the top](#contents)
+#### [Back to the top](#contents)
 ---
 
 ## Databases
@@ -37,10 +37,12 @@
 - Elmasri, Ramez, and Shamkant B. Navathe. "Fundamentals of Database Systems." [[goodreads](https://www.goodreads.com/book/show/161300.Fundamentals_of_Database_Systems)]
 - Connolly, Thomas M., and Carolyn E. Begg. "Database systems: a practical approach to design, implementation, and management". [[goodreads](https://www.goodreads.com/book/show/617120.Database_Systems)]
 
+#### [Back to the top](#contents)
 ---
 
 ## CPlusPlus
 
+#### [Back to the top](#contents)
 ---
 
 ## Java
@@ -51,18 +53,25 @@
 - [Azul Zulu OpenJDK](https://www.azul.com/downloads/?package=jdk#zulu) [[Docker](https://github.com/zulu-openjdk/zulu-openjdk)] - `Free`
 - [MS OpenJDK](https://www.microsoft.com/openjdk) [[GitHub](https://github.com/microsoft/openjdk)]  - `Open Source`
 
+#### [Back to the top](#contents)
+
 ---
 
 ## Python
+
+#### [Back to the top](#contents)
 
 ---
 
 ## Software Engineering
 
+#### [Back to the top](#contents)
+
 ---
 
 ## Computer Vision
 
+#### [Back to the top](#contents)
 ---
 
 ## Misc
@@ -110,3 +119,5 @@
 - https://github.com/s4kibs4mi/awesome-free-courses
 - https://github.com/apeman/awesome_computer_science
 - https://github.com/AB1908/CS-Books
+
+#### [Back to the top](#contents)
