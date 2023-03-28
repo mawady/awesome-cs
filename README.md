@@ -2,7 +2,7 @@
 > * **[About Me](https://github.com/mawady/awesome-cs#About-Me)**
 > * **[Algorithms](https://github.com/mawady/awesome-cs#Algorithms)**
 > * **[Databases](https://github.com/mawady/awesome-cs#Databases)**
-> * **[C/C++](https://github.com/mawady/awesome-cs#C/C++)**
+> * **[C++](https://github.com/mawady/awesome-cs#C++)**
 > * **[Java](https://github.com/mawady/awesome-cs#Java)**
 > * **[Python](https://github.com/mawady/awesome-cs#Python)**
 > * **[Software Engineering](https://github.com/mawady/awesome-cs#Software-Engineering)**
@@ -33,7 +33,7 @@
 
 ---
 
-## C/C++
+## C++
 
 ---
 
