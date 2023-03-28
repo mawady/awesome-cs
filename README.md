@@ -1,5 +1,5 @@
 # Curated educational list for computer science
-> * **[Reference Books](https://github.com/mawady/awesome-cs#About-Me)**
+> * **[About Me](https://github.com/mawady/awesome-cs#About-Me)**
 > * **[Algorithms](https://github.com/mawady/awesome-cs#Algorithms)**
 > * **[Databases](https://github.com/mawady/awesome-cs#Databases)**
 > * **[C/C++](https://github.com/mawady/awesome-cs#C/C++)**
