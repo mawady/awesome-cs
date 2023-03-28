@@ -74,7 +74,7 @@
 ### >> University Ranking
 - [CS Ranking](https://csrankings.org/)
 
-### >>> Academic Search Engine
+### >> Academic Search Engine
 - [Google Scholar](https://scholar.google.com)
 - [dblp](https://dblp.org)
 - [Semantic Scholar](https://semanticscholar.org)
