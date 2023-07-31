@@ -1,14 +1,15 @@
 # Curated educational list for computer science
 ## Contents
-> * **[About Me](https://github.com/mawady/awesome-cs#About-Me)**
-> * **[Algorithms](https://github.com/mawady/awesome-cs#Algorithms)**
-> * **[Databases](https://github.com/mawady/awesome-cs#Databases)**
-> * **[CPlusPlus](https://github.com/mawady/awesome-cs#CPlusPlus)**
-> * **[Java](https://github.com/mawady/awesome-cs#Java)**
-> * **[Python](https://github.com/mawady/awesome-cs#Python)**
-> * **[Software Engineering](https://github.com/mawady/awesome-cs#Software-Engineering)**
-> * **[Computer Vision](https://github.com/mawady/awesome-cs#Computer-Vision)**
-> * **[Misc](https://github.com/mawady/awesome-cs#Misc)**
+> * **[About Me](#about-me)**
+> * **[Educational Tools](#educational-tools)**
+> * **[Algorithms](#algorithms)**
+> * **[Databases](#databases)**
+> * **[CPlusPlus](#cplusplus)**
+> * **[Java](#java)**
+> * **[Python](#python)**
+> * **[Software Engineering](#software-engineering)**
+> * **[Computer Vision](#computer-vision)**
+> * **[Misc](#misc)**
 
 ---
 
@@ -16,6 +17,16 @@
 - Education (BSc Computer Science -> MSc Computer Vision & Robotics -> PhD in Computer Vision)
 - Industry (Software Engineer -> Computer Vision Researcher)
 - Academia (Lab Assistant -> UG/PG Tutor -> Lecturer -> Teaching Fellow)
+
+#### [Back to the top](#contents)
+---
+
+## Educational Tools
+- [Google Jamboard](https://jamboard.google.com/), a digital whiteboard that lets you collaborate in real time.
+- [Slido](https://www.slido.com/), a tool to engage your participants with live polls, Q&A, quizzes and word clouds.
+- [Mentimeter](https://www.mentimeter.com/), a tool to create presentations with real-time feedback.
+- [Padlet](https://padlet.com/), a platform which allows users to upload, organize, and share content to virtual bulletin boards.
+- [Miro](https://miro.com/), a digital collaboration platform designed to facilitate remote and distributed team communication and project management.
 
 #### [Back to the top](#contents)
 ---
@@ -119,5 +130,11 @@
 - https://github.com/s4kibs4mi/awesome-free-courses
 - https://github.com/apeman/awesome_computer_science
 - https://github.com/AB1908/CS-Books
+
+---
+
+## References
+- [Polling and interaction tools for teaching, University of Liverpool](https://www.liverpool.ac.uk/media/livacuk/centre-for-innovation-in-education/digiguides/polling-and-interaction-tools-for-teaching/polling-and-interaction-tools-for-teaching.pdf)
+- 
 
 #### [Back to the top](#contents)
