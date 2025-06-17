@@ -12,6 +12,7 @@
 > * **[Software Engineering](#software-engineering)**
 > * **[Computer Vision](#computer-vision)**
 > * **[Misc](#misc)**
+> * **[Tools](#tools)**
 
 ---
 
@@ -134,10 +135,17 @@
 * <https://github.com/apeman/awesome_computer_science>
 * <https://github.com/AB1908/CS-Books>
 
----
-
-## References
+### References
 
 * [Polling and interaction tools for teaching, University of Liverpool](https://www.liverpool.ac.uk/media/livacuk/centre-for-innovation-in-education/digiguides/polling-and-interaction-tools-for-teaching/polling-and-interaction-tools-for-teaching.pdf)
+
+---
+
+## Tools
+
+* Downloaders
+  * aria2 [[github](https://github.com/aria2/aria2)]
+  * Motrix [[github](https://github.com/agalwood/Motrix)]
+  * Persepolis [[github](https://github.com/persepolisdm/persepolis)]
 
 ---
