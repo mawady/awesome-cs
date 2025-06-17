@@ -35,21 +35,18 @@
 
 ## Algorithms
 
-### >> Books
+### Algorithms Books
 
 * Sedgewick, Robert, and Kevin Wayne. "Algorithms". [[goodreads](https://www.goodreads.com/book/show/10803540-algorithms)]
-
 * Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. "Introduction to algorithms". [[goodreads](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)]
 * Skiena, Steven S., and Miguel A. Revilla. "Programming challenges: The programming contest training manual".  [[goodreads](https://www.goodreads.com/book/show/1041695.Programming_Challenges)]
 * Skiena, Steven S. "The Algorithm Design Manual (Texts in Computer Science)". [[goodreads](https://www.goodreads.com/book/show/55357750-the-algorithm-design-manual)]
-
-#### [Back to the top](#contents)
 
 ---
 
 ## Databases
 
-### Books
+### Databases Books
 
 * Elmasri, Ramez, and Shamkant B. Navathe. "Fundamentals of Database Systems." [[goodreads](https://www.goodreads.com/book/show/161300.Fundamentals_of_Database_Systems)]
 
